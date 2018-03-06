@@ -17,6 +17,7 @@ public class NewMain {
     public static void main(String[] args) {
       
         BankAccount user1 = new BankAccount("Sebastianboca", 18442, 15000);
+        // THIS WAS SO EASY
         
     }
     
